@@ -4,11 +4,11 @@ Projeto do meu portfólio profissional desenvolvido em React.
 
 ## Objetivos
 
-- Praticar Front-End moderno
-- Aprender React na prática
-- Desenvolver responsividade
-- Melhorar UI/UX
-- Consolidar conhecimentos em JavaScript
+- Desenvolvimento de interfaces modernas e responsivas
+- Aplicação de boas práticas em React e JavaScript
+- Evolução contínua em arquitetura Front-End
+- Construção de projetos voltados à experiência do usuário
+- Aperfeiçoamento em consumo de APIs REST e componentização
 
 ## Tecnologias
 
