@@ -1,11 +1,14 @@
 import "./App.css";
+import Footer from "./components/Footer";
 import Header from "./components/Header";
+import Main from "./components/Main";
 
 function App() {
   return (
     <>
       <Header />
-      <h1>Olá, eu sou Lellis Júnior</h1>
+      <Main />
+      <Footer />
     </>
   );
 }
