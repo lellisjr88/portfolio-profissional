@@ -1,13 +1,16 @@
+import Hero from "./Hero";
+import About from "./About";
+import Projects from "./Projects";
+import Contact from "./Contact";
 
 function Main() {
   return (
-    <>
-      <div>
-        <h1>Bem-vindo</h1>
-        <p>Conteúdo principal da aplicação</p>
-      </div>
-      
-    </>
+    <main>
+      <Hero />
+      <About />
+      <Projects />
+      <Contact />
+    </main>
   );
 }
 
